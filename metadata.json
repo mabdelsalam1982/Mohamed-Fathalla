@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Sandbox",
+  "description": "AI-powered Recruitment Sandbox that transforms raw hiring notes into polished LinkedIn job descriptions and comprehensive 10-question behavioral interview guides with scoring rubrics, paired with a multi-turn talent acquisition copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
